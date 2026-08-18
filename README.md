@@ -93,7 +93,3 @@ I am very passionate about:
 ---
 
 <br>
-
-<div align="center">
-  <p>Support my work 😄</p>
-</div>
