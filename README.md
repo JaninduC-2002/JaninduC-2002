@@ -43,11 +43,11 @@ I am very passionate about:
 ### GitHub Stats 👨‍💻
 
 <div align="center">
-  <!-- GitHub Stats Card (Using your personal Vercel server!) -->
-  <img src="https://my-profile-stats-zeta.vercel.app/api?username=JaninduC-2002&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9" alt="GitHub Stats" width="48%" />
+  <!-- GitHub Stats Card -->
+  <img src="https://my-stats-v2.vercel.app/api?username=JaninduC-2002&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9" alt="GitHub Stats" width="48%" />
   
-  <!-- Top Languages Card (Using your personal Vercel server!) -->
-  <img src="https://my-profile-stats-zeta.vercel.app/api/top-langs/?username=JaninduC-2002&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9" alt="Top Languages" width="48%" />
+  <!-- Top Languages Card -->
+  <img src="https://my-stats-v2.vercel.app/api/top-langs/?username=JaninduC-2002&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9" alt="Top Languages" width="48%" />
 </div>
 
 <br>
