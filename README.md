@@ -1,8 +1,3 @@
-<!-- Top Banner Image -->
-<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=2070&auto=format&fit=crop" alt="Profile Banner" width="100%" height="250" style="object-fit: cover; border-radius: 10px;" />
-
-<br>
-
 ### Hello there 👋
 
 
