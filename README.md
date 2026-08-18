@@ -1,18 +1,12 @@
 <!-- Top Banner Image (You can replace this URL with any image or GIF you like) -->
 <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=2070&auto=format&fit=crop" alt="Profile Banner" width="100%" height="250" style="object-fit: cover; border-radius: 10px;" />
 
-<br><br>
-
-<div align="center">
-  <p><strong>Bridging the physical and digital worlds...</strong></p>
-</div>
-
 <br>
 
 ### Hello there 👋
 
-<!-- Right-aligned floating image (Globe/Tech graphic) -->
-<img align="right" width="200" src="https://cdn.pixabay.com/animation/2022/10/25/11/03/11-03-34-406_512.gif" alt="Spinning Earth Globe" />
+<!-- Right-aligned floating image
+<img align="right" width="200" src="https://cdn.pixabay.com/animation/2022/10/25/11/03/11-03-34-406_512.gif" alt="Spinning Earth Globe" /> -->
 
 I'm **Janindu Chathurangana**, an enthusiastic undergraduate hailing from Sri Lanka 🇱🇰. 
 
