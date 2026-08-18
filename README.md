@@ -1,12 +1,10 @@
-<!-- Top Banner Image (You can replace this URL with any image or GIF you like) -->
+<!-- Top Banner Image -->
 <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=2070&auto=format&fit=crop" alt="Profile Banner" width="100%" height="250" style="object-fit: cover; border-radius: 10px;" />
 
 <br>
 
 ### Hello there 👋
 
-<!-- Right-aligned floating image
-<img align="right" width="200" src="https://cdn.pixabay.com/animation/2022/10/25/11/03/11-03-34-406_512.gif" alt="Spinning Earth Globe" /> -->
 
 I'm **Janindu Chathurangana**, an enthusiastic undergraduate hailing from Sri Lanka 🇱🇰. 
 
@@ -23,8 +21,6 @@ I am very passionate about:
 
 ### Present Status
 
-<!-- Right-aligned floating image (Nature/Pixel art or Tech graphic) 
-<img align="right" width="250" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Waving Animation" /> -->
 
 🟩 Pursuing my **BSc. in Physics and Electronics** at the Faculty of Science, University of Kelaniya 🎓
 
@@ -36,7 +32,7 @@ I am very passionate about:
 
 <kbd>Update 2026</kbd>: Focusing heavily on exploring the intersection of hardware and user-focused software!
 
-<br><br>
+<br>
 
 ---
 
@@ -44,10 +40,10 @@ I am very passionate about:
 
 <div align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://my-stats-v2.vercel.app/api?username=JaninduC-2002&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9" alt="GitHub Stats" width="48%" />
+  <img src="https://my-stats-v2.vercel.app/api?username=JaninduC-2002&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9&v=3" alt="GitHub Stats" width="48%" />
   
   <!-- Top Languages Card -->
-  <img src="https://my-stats-v2.vercel.app/api/top-langs/?username=JaninduC-2002&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9" alt="Top Languages" width="48%" />
+  <img src="https://my-stats-v2.vercel.app/api/top-langs/?username=JaninduC-2002&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9&v=3" alt="Top Languages" width="48%" />
 </div>
 
 <br>
@@ -59,10 +55,31 @@ I am very passionate about:
 
 ---
 
-### Skills 🌱
+### Languages & Tools 💻
+
+<div align="left">
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL" title="SQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" title="C" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" title="C++" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" title="Kotlin" />
+</div>
+
+<br><br>
 
 <details>
-<summary><b>Show Skills</b></summary>
+<summary><b>Show More Skills</b></summary>
 <br>
 
 * **Core Competencies:** Circuit Design, Sensor Integration, Automation Logic
