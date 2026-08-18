@@ -23,14 +23,14 @@ I am very passionate about:
 
 ### Present Status
 
-<!-- Right-aligned floating image (Nature/Pixel art or Tech graphic) -->
-<img align="right" width="250" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Waving Animation" />
+<!-- Right-aligned floating image (Nature/Pixel art or Tech graphic) 
+<img align="right" width="250" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Waving Animation" /> -->
 
-👉 Pursuing my **BSc. in Physics and Electronics** at the Faculty of Science, University of Kelaniya 🎓
+🟩 Pursuing my **BSc. in Physics and Electronics** at the Faculty of Science, University of Kelaniya 🎓
 
-👉 Building an **Automated Attention Tracking System** 🛠️
+🟩 Building an **Automated Attention Tracking System** 🛠️
 
-👉 Designing a **Library Management System** mobile application 📱
+🟩 Designing a **Library Management System** mobile application 📱
 
 <br>
 
